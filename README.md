@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Desenvolvimento web
+- 🔭 Web Developer
 
  <div>
   <a href="https://github.com/Tiago-prestes">
